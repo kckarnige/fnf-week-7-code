@@ -1,2 +1,7 @@
-# fnf-week-7-code
-Friday Night Funkin' Week 7 HTML5 Source code
+## ALL RESOURCES BY THE FRIDAY NIGHT FUNKIN TEAM
+
+- [ninjamuffin99](https://twitter.com/ninja_muffin99) - Code
+- [PhantomArcade3K](https://twitter.com/phantomarcade3k) and [Evilsk8r](https://twitter.com/evilsk8r) - Art
+- [Kawaisprite](https://twitter.com/kawaisprite) - Songs
+
+[Official FNF GitHub Source Repo Linked Right Here](https://github.com/ninjamuffin99/Funkin)
