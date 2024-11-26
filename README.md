@@ -1,4 +1,4 @@
-## THIS IS A WEB SCRAPE OF THE HTML5 BUILD, NO HAXE HERE!
+## THIS IS A WEB SCRAPE AND DOES NOT WORK
 
 ### All resources belong to the Friday Night Funkin' team
 
